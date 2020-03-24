@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="recfun">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/recfun/recfunEJE.zip!/" />
+      <root url="jar://$PROJECT_DIR$/recfun/recfun.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
