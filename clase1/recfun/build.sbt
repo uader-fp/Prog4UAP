@@ -2,7 +2,7 @@ name <<= submitProjectName(pname => "progfun-"+ pname)
 
 version := "1.0.0"
 
-scalaVersion := "2.10.2"
+scalaVersion := "2.11.8"
 
 scalacOptions ++= Seq("-deprecation", "-feature")
 
